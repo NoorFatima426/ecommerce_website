@@ -117,6 +117,7 @@ font-size: 20px;
 .fa-x{
   color:red;
   font-weight: bold;
+  padding-left:20px;
 }
 .shopping-cart{
   display: grid;
