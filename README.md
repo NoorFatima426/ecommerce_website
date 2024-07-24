@@ -1,2 +1,2 @@
 # ecommerce_website
-E-commerce webpage in which i have displayed cards dynamically , a carousel and add to cart functionality.
+Welcome to our e-commerce website! Featuring a captivating carousel, a contact form for email inquiries, and dynamically generated product cards. With the addition of "Add to Cart" functionality and local storage using JSON , Your data will remain there after your refresh the page.
